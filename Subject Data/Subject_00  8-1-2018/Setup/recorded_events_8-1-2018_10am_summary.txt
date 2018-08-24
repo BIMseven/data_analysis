@@ -1,0 +1,26 @@
+-------------------------------------------
+Summary
+-------------------------------------------
+
+Completed courses: 1
+Total course time: 40.199
+Total times off course: 6
+Total buttons pressed: 1
+Total foot collisions: 2
+Total hand collisions: 1
+Total head collisions: 1
+
+
+-------------------------------------------
+Breakdown
+-------------------------------------------
+
+Course name: course_4Total course time: 40.199
+Times off course: 6
+Total time off course: 5.838
+Times pulsed: 1
+Total time off course after pulse: 0.013
+Buttons pressed: 1
+Foot collisions: 2
+Hand collisions: 1
+Head collisions: 1

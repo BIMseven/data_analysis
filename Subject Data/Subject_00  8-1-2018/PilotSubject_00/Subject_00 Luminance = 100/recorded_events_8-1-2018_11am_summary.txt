@@ -1,0 +1,104 @@
+-------------------------------------------
+Summary
+-------------------------------------------
+
+Completed courses: 8
+Total course time: 15.812
+Total times off course: 1
+Total buttons pressed: 1
+Total foot collisions: 2
+Total hand collisions: 1
+Total head collisions: 0
+
+
+-------------------------------------------
+Breakdown
+-------------------------------------------
+
+Course name: course_10_swing
+Total course time: 13.747
+Times off course: 4
+Total time off course: 0.143
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 1
+Foot collisions: 5
+Hand collisions: 1
+Head collisions: 0
+
+Course name: course_5_swing
+Total course time: 14.211
+Times off course: 4
+Total time off course: 0.201
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 1
+Foot collisions: 9
+Hand collisions: 1
+Head collisions: 0
+
+Course name: course_4_swing
+Total course time: 9.178
+Times off course: 2
+Total time off course: 5.971
+Times pulsed: 1
+Total time off course after pulse: 3.557
+Buttons pressed: 0
+Foot collisions: 2
+Hand collisions: 1
+Head collisions: 0
+
+Course name: course_5
+Total course time: 12.079
+Times off course: 1
+Total time off course: 0.178
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 1
+Foot collisions: 6
+Hand collisions: 1
+Head collisions: 0
+
+Course name: course_12
+Total course time: 14.737
+Times off course: 4
+Total time off course: 2.258
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 1
+Foot collisions: 1
+Hand collisions: 1
+Head collisions: 0
+
+Course name: course_8_swing
+Total course time: 13.133
+Times off course: 3
+Total time off course: 0.140
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 1
+Foot collisions: 3
+Hand collisions: 1
+Head collisions: 0
+
+Course name: course_9
+Total course time: 3.779
+Times off course: 0
+Total time off course: 0.000
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 0
+Foot collisions: 0
+Hand collisions: 0
+Head collisions: 0
+
+Course name: course_1
+Total course time: 15.812
+Times off course: 1
+Total time off course: 2.807
+Times pulsed: 1
+Total time off course after pulse: 0.799
+Buttons pressed: 1
+Foot collisions: 2
+Hand collisions: 1
+Head collisions: 0

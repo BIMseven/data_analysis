@@ -1,0 +1,39 @@
+-------------------------------------------
+Summary
+-------------------------------------------
+
+Completed courses: 2
+Median course time: 444.501
+Median time spent off course: 119.364
+Total times off course: 70
+Total buttons pressed: 0
+Total foot collisions: 22
+Total hand collisions: 2
+Total head collisions: 2
+
+
+-------------------------------------------
+Breakdown
+-------------------------------------------
+
+Course name: course_12_swing
+Total course time: 405.906
+Times off course: 46
+Total time off course: 107.055
+Times pulsed: 1
+Total time off course after pulse: 2.210
+Buttons pressed: 0
+Foot collisions: 10
+Hand collisions: 3
+Head collisions: 2
+
+Course name: course_9
+Total course time: 444.501
+Times off course: 35
+Total time off course: 119.364
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 0
+Foot collisions: 11
+Hand collisions: 1
+Head collisions: 2

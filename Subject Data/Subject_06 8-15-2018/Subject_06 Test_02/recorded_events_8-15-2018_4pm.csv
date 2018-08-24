@@ -1,0 +1,85 @@
+Play Area: 2.1m x 3.4m, 2.126984
+24 courses available, 2.134747
+Tare feet, 6.589979
+Loaded course_6_swing, 8.697995
+Config: 
+{	arrowLuminance: 10 lx
+	obstacleLuminance: 10 lx
+	buttonLuminance: 10 lx
+	footLuminance: 10 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: True
+}, 8.702606
+Subject navigating course: False, 8.728259
+Subject navigating course: True, 21.38387
+pressed_RedButtonBig(Clone), 38.08502
+collide*(2.1800, 0.3126, 1.1932)*CollisionTracker_RF*(0.0590, -1.3250, 1.3145) *(-0.2630, 1.8032, -7.1240)*(2.1294, 0.2601, 1.1882)*ObstacleLeftLowSmallObstacleLowSmallObstacle*(2.2000, 0.3250, 1.2000), 44.43742
+collide*(3.5064, 1.2663, 0.0066)*CollisionTracker_RH*(1.1887, 0.0403, -0.2394) *(4.1136, -2.8492, -1.8688)*(3.3926, 1.3121, 0.0002)*FlagZY*(3.6000, 1.3000, 0.0000), 54.01232
+Finish Line Tagged, 54.01687
+Subject navigating course: False, 54.02134
+Loaded course_8, 56.48312
+Config: 
+{	arrowLuminance: 10 lx
+	obstacleLuminance: 10 lx
+	buttonLuminance: 10 lx
+	footLuminance: 10 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: True
+}, 56.48755
+Subject navigating course: False, 56.50151
+Subject navigating course: True, 82.42171
+collide*(3.4021, 0.3071, 0.4152)*CollisionTracker_LF*(0.3971, 0.5189, -1.0642) *(-0.4524, -7.4973, -6.3178)*(3.3657, 0.1965, 0.3814)*ObstacleLeftLowSmallObstacleLowSmallObstacle*(3.4000, 0.3250, 0.4000), 88.88487
+pressed_RedButtonBig(Clone), 99.03596
+collide*(0.7013, 1.0995, 0.0547)*CollisionTracker_RH*(0.5941, 1.3608, -0.7757) *(2.3597, -2.1412, -5.5893)*(0.6719, 1.1163, 0.1536)*FlagZY*(0.8000, 1.3000, 0.0000), 108.0757
+Finish Line Tagged, 108.08
+Subject navigating course: False, 108.084
+Loaded course_10, 111.3823
+Config: 
+{	arrowLuminance: 10 lx
+	obstacleLuminance: 10 lx
+	buttonLuminance: 10 lx
+	footLuminance: 10 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: True
+}, 111.387
+Subject navigating course: False, 111.4034
+Subject navigating course: True, 126.248
+collide*(3.5890, 0.6638, 1.4115)*CollisionTracker_RH*(-0.4050, 0.0122, -0.0727) *(-1.0436, 0.1374, -0.4787)*(3.5621, 0.7853, 1.4323)*ObstacleBackMedNormObstacleMedNormObstacle*(3.6000, 0.6500, 1.4000), 127.1675
+pressed_RedButtonBig(Clone), 133.1987
+collide*(0.5322, 0.2842, 1.2391)*CollisionTracker_LF*(0.1550, 1.2530, -0.5765) *(7.5073, 10.6138, -0.3685)*(0.4725, 0.1928, 1.1982)*ObstacleLeftLowBigObstacleLowBigObstacle*(0.6000, 0.3250, 1.2000), 139.8279
+collide*(1.5490, 0.2666, 0.2325)*CollisionTracker_RF*(1.3495, 0.0334, 0.2337) *(2.7117, -4.2873, 1.9246)*(1.5437, 0.1982, 0.2819)*ObstacleFrontLowBigObstacleLowBigObstacle*(1.6000, 0.3250, 0.2000), 149.0372
+Off course, 152.346
+Back on course, 152.3794
+collide*(3.4873, 1.2193, 0.1235)*CollisionTracker_RH*(0.5963, 0.4378, 0.0301) *(4.6780, 0.1387, -2.3292)*(3.3795, 1.2520, 0.1634)*FlagZY*(3.6000, 1.3000, 0.0000), 154.5773
+Finish Line Tagged, 154.5825
+Subject navigating course: False, 154.5868

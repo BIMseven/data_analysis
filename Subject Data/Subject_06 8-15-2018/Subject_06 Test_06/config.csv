@@ -1,0 +1,53 @@
+play_area_width, 2.1
+play_area_depth, 3.4
+tile_length, 0.4
+swings_per_sec, 0.25
+subject_height, 1.3
+hanging_obstacle_height, 1
+arrow_height, .4
+low_height, 0.25
+med_height, 0.5
+high_height, 0.7
+small_obstacle_radius, .015
+med_obstacle_radius, .03
+big_obstacle_radius, .06
+tiny_step, 0.05
+small_step, .1
+big_step, .15
+huge_step, .2
+box_length, 1.3
+arrow_local_scale, .5
+arrow_luminance, 1
+button_luminance, 1
+obstacle_luminance, 1
+finish_line_luminance, 1
+hands_and_feet_luminance, 1
+tile_luminance, 1
+background_luminance, 150
+cam_clip, 10
+high_contrast_arrows, yes
+num_courses, 24
+course_1.csv
+course_1_swing.csv
+course_2.csv
+course_2_swing.csv
+course_3.csv
+course_3_swing.csv
+course_4.csv
+course_4_swing.csv
+course_5.csv
+course_5_swing.csv
+course_6.csv
+course_6_swing.csv
+course_7.csv
+course_7_swing.csv
+course_8.csv
+course_8_swing.csv
+course_9.csv
+course_9_swing.csv
+course_10.csv
+course_10_swing.csv
+course_11.csv
+course_11_swing.csv
+course_12.csv
+course_12_swing.csv

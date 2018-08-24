@@ -1,0 +1,31 @@
+Play Area: 2.1m x 3.4m, 1.770662
+24 courses available, 1.77801
+Tare feet, 6.007938
+Loaded course_12, 9.593882
+Subject navigating course: False, 9.614311
+Subject navigating course: True, 22.23491
+Off course, 25.96611
+Back on course, 25.98877
+pressed_ButtonBig(Clone), 26.88739
+collide*(3.4936, 1.2645, 0.3697)*CollisionTracker_RH*(0.3220, -0.0505, -0.0129) *(-0.1857, -0.0364, -0.1353)*(3.4157, 1.3420, 0.3838)*FlagZY*(3.6000, 1.3000, 0.4000), 48.17953
+Finish Line Tagged, 48.18385
+Subject navigating course: False, 48.18862
+Loaded course_11_swing, 50.61113
+Subject navigating course: False, 50.62494
+Subject navigating course: True, 61.59458
+collide*(0.2904, 0.2323, 0.7745)*CollisionTracker_LF*(-0.0319, 1.6214, 0.7419) *(-0.9914, 5.2709, 5.0695)*(0.2852, 0.3368, 0.7162)*StepOverObstacle*(0.4000, 0.1300, 0.8000), 77.37595
+pressed_ButtonBig(Clone), 88.22794
+collide*(3.5118, 1.4088, 1.4312)*CollisionTracker_EYE*(0.2697, 0.0389, 0.1747) *(-0.4018, 0.2576, -0.6724)*(3.4756, 1.4535, 1.3619)*FlagZY*(3.6000, 1.3000, 1.6000), 89.77069
+collide*(3.6043, 1.1615, 1.3789)*CollisionTracker_RH*(0.1397, 0.3855, 0.5937) *(-4.9693, 1.2880, -0.3515)*(3.6342, 1.1565, 1.4245)*FlagZY*(3.6000, 1.3000, 1.6000), 89.94797
+Finish Line Tagged, 89.95184
+Subject navigating course: False, 89.95576
+Loaded course_5_swing, 92.40266
+Subject navigating course: False, 92.41625
+Subject navigating course: True, 102.9994
+collide*(2.1665, 0.2973, 0.4203)*CollisionTracker_LF*(-0.1309, -1.0992, -1.6048) *(-1.1941, -4.5687, -3.1233)*(2.1091, 0.3047, 0.5015)*ObstacleLeftLowNormObstacleLowNormObstacle*(2.2000, 0.3250, 0.4000), 116.193
+pressed_ButtonBig(Clone), 119.1477
+collide*(0.7832, 1.1647, 1.4352)*CollisionTracker_EYE*(0.0013, 0.2433, 0.4856) *(-0.6275, 0.7341, 0.1388)*(0.7761, 1.1077, 1.3658)*FlagZY*(0.8000, 1.3000, 1.6000), 128.5871
+Off course, 128.6652
+collide*(0.8218, 1.0945, 1.5135)*CollisionTracker_RH*(-0.0870, 0.4289, 0.2954) *(-0.4186, 0.4838, -1.3789)*(0.8438, 1.1107, 1.5770)*FlagZY*(0.8000, 1.3000, 1.6000), 128.8311
+Finish Line Tagged, 128.8348
+Subject navigating course: False, 128.8392

@@ -1,0 +1,3 @@
+Subject_06 Test_03
+
+darker setting, all luminance set to 10

@@ -1,0 +1,9 @@
+Subject_07 Test_04
+
+Found bugs with turning off the eyes, leading to the course to dissapear and be replaced with red planes while preserving a few obstacles. 
+Also found that deactivating both eyes worked, however individual eyes were unable to be modified. Subject mentioned brief moments
+in which they were able to see only out of the left eye. 
+
+TODO:
+Must look for bugs with the EyeActivator, and whether or not our clipping plane modifications are being overwritten 
+with any built in software of the VIVE or STEAMVR. 

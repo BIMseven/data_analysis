@@ -1,0 +1,3 @@
+Overview:
+
+Subject had normal vision. "visibilty threshold" was at an arrow and obstacle luminance of 1, backround luminance was also set to 1. No extra parameters applied.

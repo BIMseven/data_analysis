@@ -1,0 +1,7 @@
+Subject_3 Test_8 notes
+
+Notes:
+
+Low Luminosity, luminosity set to 1, right eye patched
+
+Seemed like the courses from the first and third test were the same... need to check to make sure courses have equal chance to be chosen, and no course is repeated

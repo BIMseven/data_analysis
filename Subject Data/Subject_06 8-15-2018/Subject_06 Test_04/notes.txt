@@ -1,0 +1,10 @@
+Subject_06 Test_04
+
+Testing Notes:
+
+very dark, sub 1 luminance. 
+subject used smilar tactics of detection to rpe 65 patients.
+
+Analysis:
+
+use luminance settings lower than 1 for most settings. Made navigating difficult as shown by the increased off course time. Subject seemed esspecially aware of their feet, leading to a lack of foot collisions. 

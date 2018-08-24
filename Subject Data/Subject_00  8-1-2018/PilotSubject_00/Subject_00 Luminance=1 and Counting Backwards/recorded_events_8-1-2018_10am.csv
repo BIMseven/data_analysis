@@ -1,0 +1,28 @@
+Play Area: 2.1m x 3.4m, 1.898788
+24 courses available, 1.905263
+Tare feet, 3.953254
+Tare feet, 7.654823
+Loaded course_10_swing, 14.87606
+Subject navigating course: False, 14.89932
+Subject navigating course: True, 27.02094
+collide*(3.1705, 0.0002, 1.1554)*CollisionTracker_LF*(0.0594, 0.0095, -0.1043) *(0.5313, -0.5341, 0.8873)*(3.2484, 0.0280, 1.0750)*Foot*(3.0983, 0.0011, 1.2137), 31.51043
+collide*(3.1966, 0.0012, 1.1564)*CollisionTracker_RF*(-2.2134, -0.1391, -0.6461) *(-0.6939, -3.1883, -8.3516)*(3.0969, -0.0005, 1.2135)*Foot*(3.2484, 0.0280, 1.0750), 31.51484
+Off course, 32.17657
+Back on course, 32.49936
+pressed_ButtonBig(Clone), 34.65195
+collide*(0.3843, 0.0577, 0.9917)*CollisionTracker_LF*(-0.2423, -0.1924, -0.3995) *(-19.0183, -5.0909, 32.3919)*(0.4389, 0.1099, 1.0331)*Foot*(0.3300, -0.0119, 0.9997), 39.26
+collide*(0.3638, 0.0541, 0.9965)*CollisionTracker_RF*(-0.0271, -0.0177, 0.0474) *(-1.8694, 0.3488, -0.9106)*(0.3311, -0.0128, 0.9981)*Foot*(0.4389, 0.1099, 1.0331), 39.2639
+collide*(2.3653, 0.1905, 0.4215)*CollisionTracker_LF*(1.5349, -0.1927, -0.0059) *(4.8336, -14.3697, 1.6197)*(2.3508, 0.2911, 0.4854)*StepOverObstacle*(2.4000, 0.0975, 0.4000), 47.03576
+collide*(2.7163, 0.0016, 0.4046)*CollisionTracker_RF*(-0.0105, 0.0088, 0.0267) *(0.2377, -0.4398, -0.6317)*(2.6590, -0.0761, 0.3734)*Foot*(2.7004, 0.0643, 0.4876), 47.27936
+collide*(2.6938, 0.0019, 0.4263)*CollisionTracker_LF*(0.2084, -0.4602, -0.1245) *(-27.0781, 5.0315, -6.9344)*(2.6899, 0.0574, 0.4822)*Foot*(2.6568, -0.0737, 0.3722), 47.30188
+collide*(3.4533, 1.3207, 0.1799)*CollisionTracker_RH*(0.4673, 0.3596, 0.0567) *(-1.9246, -3.9934, -5.6122)*(3.4231, 1.2702, 0.2902)*FlagZY*(3.6000, 1.3000, 0.0000), 53.42021
+Finish Line Tagged, 53.42439
+Subject navigating course: False, 53.42944
+Loaded course_2_swing, 60.09733
+Subject navigating course: False, 60.11018
+Subject navigating course: True, 70.90231
+pressed_ButtonMed(Clone), 75.14487
+pressed_ButtonBig(Clone), 87.49529
+collide*(3.1445, 1.3110, 0.0866)*CollisionTracker_RH*(1.3302, -0.5449, -2.0364) *(-2.0887, -5.7803, -24.2239)*(3.1271, 1.3924, 0.1782)*FlagZY*(3.2000, 1.3000, 0.0000), 96.10394
+Finish Line Tagged, 96.10806
+Subject navigating course: False, 96.11311

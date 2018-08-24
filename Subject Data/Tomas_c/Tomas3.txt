@@ -1,0 +1,10 @@
+Summary:
+Completed courses: 0
+Total course time: -1
+Total times off course: 2
+Total buttons pressed: 1
+Total foot collisions: 2
+Total hand collisions: 2
+Total head collisions: 1
+
+

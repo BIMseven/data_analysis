@@ -1,0 +1,104 @@
+-------------------------------------------
+Summary
+-------------------------------------------
+
+Completed courses: 3
+Median course time: 22.352
+Median time spent off course: 1.611
+Total times off course: 12
+Total buttons pressed: 3
+Total foot collisions: 9
+Total hand collisions: 3
+Total head collisions: 3
+
+
+-------------------------------------------
+Breakdown
+-------------------------------------------
+
+Course name: course_5
+{
+	obstacleLuminance: 0.2 lx
+	buttonLuminance: 0.1 lx
+	footLuminance: 1 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: True
+}
+
+Total course time: 39.746
+Times off course: 10
+Total time off course: 10.030
+Times pulsed: 1
+Total time off course after pulse: 6.579
+Buttons pressed: 1
+Foot collisions: 3
+Hand collisions: 1
+Head collisions: 4
+
+Course name: course_2
+{
+	obstacleLuminance: 0.2 lx
+	buttonLuminance: 0.1 lx
+	footLuminance: 1 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: True
+}
+
+Total course time: 23.064
+Times off course: 2
+Total time off course: 0.810
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 1
+Foot collisions: 4
+Hand collisions: 1
+Head collisions: 1
+
+Course name: course_4_swing
+{
+	obstacleLuminance: 0.2 lx
+	buttonLuminance: 0.1 lx
+	footLuminance: 1 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: True
+}
+
+Total course time: 22.352
+Times off course: 4
+Total time off course: 1.611
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 1
+Foot collisions: 3
+Hand collisions: 1
+Head collisions: 1

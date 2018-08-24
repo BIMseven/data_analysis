@@ -1,0 +1,146 @@
+Play Area: 2.1m x 3.4m, 1.668029
+24 courses available, 1.674224
+Play Area: 2.1m x 3.4m, 1.680084
+24 courses available, 1.685659
+Play Area: 2.1m x 3.4m, 1.715823
+24 courses available, 1.721532
+Play Area: 2.1m x 3.4m, 1.804938
+24 courses available, 1.81122
+Play Area: 2.1m x 3.4m, 1.783537
+24 courses available, 1.789565
+Play Area: 2.1m x 3.4m, 1.854162
+24 courses available, 1.860675
+Tare feet, 89.77316
+Tare feet, 118.5938
+Tare feet, 146.5043
+Loaded course_3_swing, 178.9809
+Subject navigating course: True, 207.2773
+Off course, 219.1261
+Off course, 221.614
+pressed_ButtonBig(Clone), 225.9002
+collide*(1.2866, 0.8688, 0.4679)*CollisionTracker_LH*(0.6335, 0.1351, 1.2765) *(-1.4003, 0.2890, 2.5686)*(1.3422, 0.8682, 0.4136)*ObstacleBack*(1.3600, 0.9100, 0.5100), 236.974
+Off course, 239.2734
+Off course, 241.8158
+collide*(2.9161, 1.4472, -0.0477)*CollisionTracker_EYE*(0.1840, 0.1601, 0.0760) *(-0.3501, -0.3166, 0.0878)*(2.8548, 1.5099, -0.0680)*FlagZY*(3.0600, 1.3000, 0.0000), 242.9594
+Off course, 243.1593
+collide*(3.0393, 1.3920, 0.1403)*CollisionTracker_EYE*(-0.0430, 0.0096, -0.1042) *(-0.5326, 0.1701, 0.0516)*(3.0283, 1.4410, 0.2150)*FlagZY*(3.0600, 1.3000, 0.0000), 246.8583
+Subject navigating course: False, 247.5374
+Loaded course_4_swing, 251.9652
+Subject navigating course: True, 262.5761
+collide*(2.4064, 0.2935, 0.1415)*CollisionTracker_RF*(-1.5888, 0.1145, -0.1606) *(3.4615, 3.6722, 6.2759)*(2.4953, 0.2934, 0.1061)*ObstacleBack*(2.3800, 0.3250, 0.1700), 264.7623
+collide*(2.4109, 0.2064, 0.0414)*CollisionTracker_RF*(-1.7083, -0.0556, -0.3238) *(-10.7626, -15.3077, -14.6934)*(2.4710, 0.2852, 0.0953)*Obstacle*(2.3800, 0.0975, 0.0000), 264.7738
+collide*(2.4298, 0.1308, -0.0759)*CollisionTracker_LF*(-0.9555, 0.6771, -0.0641) *(-1.6672, 4.4866, 2.4381)*(2.5010, 0.1864, -0.1420)*Obstacle*(2.3800, 0.0975, 0.0000), 265.6286
+Off course, 265.8282
+pressed_ButtonBig(Clone), 268.5157
+Off course, 269.3603
+Off course, 282.2312
+collide*(0.9776, 0.0863, 1.2967)*CollisionTracker_RF*(0.6206, 0.5536, 0.0263) *(2.3701, 0.5608, 1.4725)*(0.8809, 0.1404, 1.2677)*Obstacle*(1.0200, 0.0650, 1.3600), 283.3644
+collide*(2.3447, 0.3071, 0.5471)*CollisionTracker_RF*(0.3374, -0.0097, 0.1425) *(-3.6396, 0.4313, 0.3735)*(2.2786, 0.2677, 0.6284)*ObstacleFront*(2.3800, 0.3250, 0.5100), 290.6386
+collide*(2.3798, 0.3054, 0.5471)*CollisionTracker_RF*(1.8802, -0.6619, -0.8657) *(7.8274, 3.0292, -13.5933)*(2.3275, 0.2881, 0.6565)*ObstacleFront*(2.3800, 0.3250, 0.5100), 291.605
+collide*(2.7074, 1.4449, 1.2189)*CollisionTracker_EYE*(0.0390, 0.0685, 0.6194) *(-0.2246, -0.4253, -1.6480)*(2.7018, 1.5093, 1.1563)*FlagZY*(2.7200, 1.3000, 1.3600), 294.4822
+Off course, 294.5491
+Subject navigating course: False, 297.361
+Loaded course_9, 302.1423
+Tare feet, 350.6254
+Subject navigating course: True, 355.2136
+Off course, 358.2098
+collide*(2.0635, 0.1340, 0.4829)*CollisionTracker_RF*(-0.6191, 0.6989, -0.0506) *(-2.6020, 3.1195, -0.3880)*(2.1690, 0.1822, 0.5221)*Obstacle*(2.0400, 0.1300, 0.3400), 360.4639
+Off course, 365.9952
+collide*(0.3402, 1.5063, 0.3409)*CollisionTracker_EYE*(0.0948, -0.1537, 0.6607) *(1.8241, -2.5970, 9.8331)*(0.3219, 1.4690, 0.2611)*Obstacle*(0.3400, 1.5058, 0.3400), 366.2405
+collide*(0.3095, 0.1082, 0.6169)*CollisionTracker_LF*(0.2470, -0.3217, 1.5185) *(-0.4603, 1.3524, 9.5453)*(0.2244, 0.0814, 0.5375)*Obstacle*(0.3400, 0.0975, 0.6800), 367.772
+Off course, 368.4936
+Off course, 368.5936
+Off course, 368.6378
+Off course, 368.7049
+collide*(0.4102, 0.1151, 0.6582)*CollisionTracker_RF*(-0.3334, 0.4233, 0.7040) *(-1.0544, -3.2222, 4.6520)*(0.4284, 0.1565, 0.5456)*Obstacle*(0.3400, 0.0975, 0.6800), 368.8267
+Off course, 369.882
+Off course, 370.3819
+Off course, 370.9922
+Off course, 371.0146
+collide*(0.6356, 0.2551, 1.2067)*CollisionTracker_RF*(0.7855, 0.9085, 0.1424) *(2.2095, 0.2758, -0.3796)*(0.5697, 0.2454, 1.2588)*ObstacleFront*(0.6800, 0.3250, 1.1900), 371.0698
+pressed_ButtonBig(Clone), 372.015
+Off course, 372.6923
+Off course, 372.7255
+Off course, 372.8254
+Off course, 373.3471
+Off course, 373.7029
+Off course, 376.5129
+Off course, 376.8563
+Off course, 376.9568
+collide*(2.9223, 1.3798, 0.9901)*CollisionTracker_EYE*(0.1882, 0.0031, -0.0117) *(-0.2876, 0.0356, 0.0996)*(2.8458, 1.4242, 0.9735)*FlagZY*(3.0600, 1.3000, 1.0200), 379.2555
+Off course, 379.2784
+collide*(2.9203, 1.1466, 0.9875)*CollisionTracker_EYE*(-0.2719, 1.4276, -0.0430) *(-0.9381, 0.2618, 0.7477)*(2.8604, 1.0808, 0.9735)*FlagZY*(3.0600, 1.3000, 1.0200), 384.4194
+Off course, 388.6068
+Off course, 389.0291
+Off course, 390.4613
+Off course, 391.4178
+collide*(2.9189, 1.2741, 0.9908)*CollisionTracker_LH*(0.3102, -0.5717, -0.5911) *(1.6076, -3.1893, 0.6432)*(2.9025, 1.3687, 1.0043)*FlagZY*(3.0600, 1.3000, 1.0200), 391.9058
+collide*(2.9297, 1.2730, 0.9817)*CollisionTracker_EYE*(0.3092, -0.9188, 0.2524) *(-1.0194, -3.6623, 0.8167)*(2.8450, 1.2555, 0.9568)*FlagZY*(3.0600, 1.3000, 1.0200), 392.4272
+Off course, 397.1703
+collide*(2.9801, 1.1206, 0.9629)*CollisionTracker_EYE*(-0.0731, 1.6381, -0.1970) *(-2.9598, -0.1476, 0.1984)*(2.9449, 1.0417, 0.9378)*FlagZY*(3.0600, 1.3000, 1.0200), 397.5026
+Off course, 398.0588
+collide*(2.9284, 1.2457, 0.9171)*CollisionTracker_LH*(0.3268, 0.3296, 0.4625) *(2.6315, 1.2556, 0.4016)*(2.9039, 1.3325, 0.9355)*FlagZY*(3.0600, 1.3000, 1.0200), 400.5023
+Off course, 412.0092
+Off course, 414.14
+collide*(3.0480, 1.2627, 1.1471)*CollisionTracker_EYE*(-0.2453, -0.0964, -0.4308) *(-0.3122, 1.5145, -0.5166)*(3.0399, 1.2375, 1.2331)*FlagZY*(3.0600, 1.3000, 1.0200), 415.0608
+Off course, 415.15
+Off course, 415.8168
+Off course, 416.1502
+Off course, 416.6611
+Play Area: 2.1m x 3.4m, 1.709209
+24 courses available, 1.714911
+Loaded course_8, 81.45708
+Play Area: 2.1m x 3.4m, 1.665737
+24 courses available, 1.671907
+Play Area: 2.1m x 3.4m, 1.622079
+24 courses available, 1.62819
+Play Area: 2.1m x 3.4m, 1.48301
+24 courses available, 1.489397
+Play Area: 2.1m x 3.4m, 2.218959
+24 courses available, 2.224898
+Play Area: 2.1m x 3.4m, 1.790465
+24 courses available, 1.797343
+Loaded course_1, 60.02799
+Loaded course_11, 84.3391
+Loaded course_1_swing, 128.4338
+Play Area: 2.1m x 3.4m, 1.872009
+24 courses available, 1.878751
+Tare feet, 91.17985
+Loaded course_5, 107.2902
+Loaded course_5, 304.4537
+Subject navigating course: True, 352.4128
+collide*(1.5808, 0.2496, 1.4038)*CollisionTracker_RF*(-1.1511, 0.7154, -0.0438) *(-2.4495, 9.7602, -5.7430)*(1.6389, 0.1867, 1.4866)*ObstacleBack*(1.6000, 0.3250, 1.4000), 363.8038
+collide*(1.5982, 0.2462, 1.4317)*CollisionTracker_RF*(-0.6785, 0.3543, 0.1526) *(-7.5651, 8.6081, -7.4744)*(1.6556, 0.1917, 1.5151)*ObstacleBack*(1.6000, 0.3250, 1.4000), 364.2708
+collide*(1.8215, 0.2902, 0.8217)*CollisionTracker_RF*(0.2164, 0.3236, -0.7460) *(-0.1085, -2.4462, -0.5916)*(1.8815, 0.2606, 0.8446)*ObstacleRight*(1.8000, 0.3250, 0.8000), 371.3331
+collide*(2.0506, 0.0967, 0.8468)*CollisionTracker_LF*(-0.0824, 0.4070, -0.5258) *(-2.9821, 3.5105, -3.5389)*(2.1158, 0.1330, 0.9324)*Obstacle*(2.0000, 0.0650, 0.8000), 372.3889
+pressed_ButtonBig(Clone), 377.7752
+Off course, 380.407
+Off course, 380.7975
+Off course, 381.1424
+Off course, 381.2873
+collide*(0.6531, 1.2236, 1.4441)*CollisionTracker_EYE*(-0.0734, 0.1294, 0.0859) *(0.8356, -1.1221, -0.7315)*(0.5950, 1.1934, 1.3824)*FlagZY*(0.8000, 1.3000, 1.6000), 393.024
+collide*(0.6435, 1.2532, 1.4605)*CollisionTracker_EYE*(0.0082, 0.0707, 0.0679) *(0.8449, 0.2455, 0.3096)*(0.5779, 1.2335, 1.4020)*FlagZY*(0.8000, 1.3000, 1.6000), 393.4571
+Off course, 394.0902
+collide*(0.6477, 1.2390, 1.4565)*CollisionTracker_EYE*(0.1746, -0.1325, 0.0200) *(5.3914, -3.1977, 0.7275)*(0.5848, 1.2139, 1.3972)*FlagZY*(0.8000, 1.3000, 1.6000), 396.6782
+Off course, 397.911
+Off course, 399.9324
+Subject navigating course: False, 401.8233
+Loaded course_8_swing, 409.9463
+Tare feet, 459.6299
+Loaded course_1_swing, 461.6205
+Subject navigating course: True, 473.991
+collide*(0.8445, 0.3054, 0.1818)*CollisionTracker_RF*(-0.9153, -0.2596, 0.1539) *(5.3390, -0.2910, 2.4924)*(0.9090, 0.2635, 0.0969)*ObstacleBack*(0.8000, 0.3250, 0.2000), 484.9615
+collide*(0.5905, 0.2890, 0.3688)*CollisionTracker_RF*(0.1131, 0.7833, 1.2717) *(4.7075, 3.0771, -2.2777)*(0.5807, 0.1954, 0.4020)*ObstacleLeft*(0.6000, 0.3250, 0.4000), 487.8701
+pressed_ButtonBig(Clone), 488.7809
+Off course, 505.9309
+Off course, 509.1735
+Off course, 511.2297
+Off course, 520.1669
+Off course, 520.5443
+collide*(3.4280, 1.0780, 1.4463)*CollisionTracker_RH*(0.3450, 0.7065, 0.6419) *(-3.8126, -4.1769, -3.5279)*(3.4574, 1.1265, 1.4224)*FlagZY*(3.6000, 1.3000, 1.6000), 521.0231
+Off course, 522.011
+Subject navigating course: False, 522.2119
+Play Area: 2.1m x 3.4m, 1.847607
+24 courses available, 1.855309
+Loaded course_5_swing, 94.76056
+Tare feet, 133.9711

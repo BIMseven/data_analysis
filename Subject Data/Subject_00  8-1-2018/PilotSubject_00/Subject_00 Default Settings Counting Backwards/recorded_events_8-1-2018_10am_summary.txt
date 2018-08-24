@@ -1,0 +1,49 @@
+-------------------------------------------
+Summary
+-------------------------------------------
+
+Completed courses: 3
+Total course time: 21.475
+Total times off course: 4
+Total buttons pressed: 1
+Total foot collisions: 1
+Total hand collisions: 1
+Total head collisions: 0
+
+
+-------------------------------------------
+Breakdown
+-------------------------------------------
+
+Course name: course_5
+Total course time: 24.018
+Times off course: 2
+Total time off course: 0.133
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 1
+Foot collisions: 0
+Hand collisions: 1
+Head collisions: 0
+
+Course name: course_4
+Total course time: 20.566
+Times off course: 1
+Total time off course: 0.966
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 0
+Foot collisions: 1
+Hand collisions: 1
+Head collisions: 0
+
+Course name: course_7_swing
+Total course time: 21.475
+Times off course: 4
+Total time off course: 1.392
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 1
+Foot collisions: 1
+Hand collisions: 1
+Head collisions: 0

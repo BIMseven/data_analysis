@@ -1,0 +1,510 @@
+-------------------------------------------
+Summary
+-------------------------------------------
+
+Completed courses: 17
+Median course time: 65.646
+Median time spent off course: 18.412
+Total times off course: 238
+Total buttons pressed: 0
+Total foot collisions: 170
+Total hand collisions: 34
+Total head collisions: 34
+
+
+-------------------------------------------
+Breakdown
+-------------------------------------------
+
+Course name: course_2_swing
+{
+	obstacleLuminance: 100 lx
+	buttonLuminance: 100 lx
+	footLuminance: 100 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: False
+}
+
+Total course time: 99.486
+Times off course: 10
+Total time off course: 4.419
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 1
+Foot collisions: 3
+Hand collisions: 5
+Head collisions: 2
+
+Course name: course_8_swing
+{
+	obstacleLuminance: 100 lx
+	buttonLuminance: 100 lx
+	footLuminance: 100 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: False
+}
+
+Total course time: 63.680
+Times off course: 26
+Total time off course: 11.960
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 0
+Foot collisions: 8
+Hand collisions: 2
+Head collisions: 0
+
+Course name: course_1_swing
+{
+	obstacleLuminance: 100 lx
+	buttonLuminance: 100 lx
+	footLuminance: 100 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: False
+}
+
+Total course time: 40.402
+Times off course: 7
+Total time off course: 6.124
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 0
+Foot collisions: 5
+Hand collisions: 2
+Head collisions: 2
+
+Course name: course_8_swing
+{
+	obstacleLuminance: 50 lx
+	buttonLuminance: 50 lx
+	footLuminance: 50 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: False
+}
+
+Total course time: 25.721
+Times off course: 12
+Total time off course: 2.953
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 0
+Foot collisions: 5
+Hand collisions: 3
+Head collisions: 1
+
+Course name: course_4
+{
+	obstacleLuminance: 25 lx
+	buttonLuminance: 25 lx
+	footLuminance: 25 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: False
+}
+
+Total course time: 91.548
+Times off course: 8
+Total time off course: 2.392
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 0
+Foot collisions: 4
+Hand collisions: 1
+Head collisions: 0
+
+Course name: course_3_swing
+{
+	obstacleLuminance: 25 lx
+	buttonLuminance: 25 lx
+	footLuminance: 25 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: False
+}
+
+Total course time: 84.592
+Times off course: 9
+Total time off course: 5.576
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 0
+Foot collisions: 2
+Hand collisions: 1
+Head collisions: 0
+
+Course name: course_1_swing
+{
+	obstacleLuminance: 25 lx
+	buttonLuminance: 25 lx
+	footLuminance: 25 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: False
+}
+
+Total course time: 114.188
+Times off course: 17
+Total time off course: 42.431
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 0
+Foot collisions: 3
+Hand collisions: 1
+Head collisions: 0
+
+Course name: course_12_swing
+{
+	obstacleLuminance: 75 lx
+	buttonLuminance: 75 lx
+	footLuminance: 75 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: False
+}
+
+Total course time: 76.252
+Times off course: 20
+Total time off course: 35.612
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 0
+Foot collisions: 7
+Hand collisions: 7
+Head collisions: 2
+
+Course name: course_8_swing
+{
+	obstacleLuminance: 75 lx
+	buttonLuminance: 75 lx
+	footLuminance: 75 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: True
+}
+
+Total course time: 47.054
+Times off course: 9
+Total time off course: 1.999
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 1
+Foot collisions: 10
+Hand collisions: 1
+Head collisions: 0
+
+Course name: course_11
+{
+	obstacleLuminance: 50 lx
+	buttonLuminance: 50 lx
+	footLuminance: 50 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: True
+}
+
+Total course time: 66.556
+Times off course: 14
+Total time off course: 13.283
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 0
+Foot collisions: 3
+Hand collisions: 6
+Head collisions: 1
+
+Course name: course_6
+{
+	obstacleLuminance: 30 lx
+	buttonLuminance: 30 lx
+	footLuminance: 30 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: True
+}
+
+Total course time: 80.907
+Times off course: 12
+Total time off course: 7.368
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 0
+Foot collisions: 7
+Hand collisions: 1
+Head collisions: 2
+
+Course name: course_8
+{
+	obstacleLuminance: 15 lx
+	buttonLuminance: 15 lx
+	footLuminance: 15 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: True
+}
+
+Total course time: 68.846
+Times off course: 4
+Total time off course: 8.985
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 0
+Foot collisions: 0
+Hand collisions: 3
+Head collisions: 0
+
+Course name: course_1_swing
+{
+	obstacleLuminance: 22.5 lx
+	buttonLuminance: 22.5 lx
+	footLuminance: 22.5 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: True
+}
+
+Total course time: 71.545
+Times off course: 10
+Total time off course: 16.327
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 0
+Foot collisions: 22
+Hand collisions: 1
+Head collisions: 0
+
+Course name: course_3
+{
+	obstacleLuminance: 22.5 lx
+	buttonLuminance: 22.5 lx
+	footLuminance: 22.5 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: True
+}
+
+Total course time: 87.569
+Times off course: 16
+Total time off course: 41.683
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 0
+Foot collisions: 10
+Hand collisions: 3
+Head collisions: 0
+
+Course name: course_1
+{
+	obstacleLuminance: 30 lx
+	buttonLuminance: 30 lx
+	footLuminance: 30 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: True
+}
+
+Total course time: 88.003
+Times off course: 4
+Total time off course: 1.345
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 0
+Foot collisions: 7
+Hand collisions: 1
+Head collisions: 0
+
+Course name: course_8
+{
+	obstacleLuminance: 30.01 lx
+	buttonLuminance: 30.01 lx
+	footLuminance: 30.01 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: True
+}
+
+Total course time: 45.399
+Times off course: 9
+Total time off course: 13.006
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 0
+Foot collisions: 1
+Hand collisions: 1
+Head collisions: 0
+
+Course name: course_3
+{
+	obstacleLuminance: 40.01 lx
+	buttonLuminance: 40.01 lx
+	footLuminance: 40.01 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: True
+}
+
+Total course time: 65.646
+Times off course: 14
+Total time off course: 18.412
+Times pulsed: 0
+Total time off course after pulse: 0.000
+Buttons pressed: 0
+Foot collisions: 10
+Hand collisions: 2
+Head collisions: 0

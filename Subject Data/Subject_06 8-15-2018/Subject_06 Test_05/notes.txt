@@ -1,0 +1,5 @@
+Subject_06 Test_05
+
+played around with decimal numbers for luminosity, found great settings to get object to blend in and be very difficult.
+
+note: changed arrow luminance after third test.

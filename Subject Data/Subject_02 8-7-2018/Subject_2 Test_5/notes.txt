@@ -1,0 +1,9 @@
+Notes Subject_02 Test_05
+
+Test Notes:
+
+Low Luminosity, high contrast. Luminosity set to 1. Backround Luminance set to 50
+
+Subject found that the obstacles were much easier to find than the arrows. This is becuase of the parallax and the backround. This may make it natural, especially becuase you do have the same effect in reality. Not much difficulity incrtease in respect to the previous test wiht backround luminance set to 100
+
+Analysis:

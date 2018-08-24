@@ -1,0 +1,153 @@
+Play Area: 2.1m x 3.4m, 2.122514
+24 courses available, 2.128492
+Tare feet, 6.222783
+Tare feet, 7.166721
+Loaded course_6, 9.701038
+Config: 
+{	arrowLuminance: 0.1 lx
+	obstacleLuminance: 0.1 lx
+	buttonLuminance: 0.1 lx
+	footLuminance: 0.1 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: True
+}, 9.705894
+Subject navigating course: False, 9.731751
+Tare feet, 13.87499
+Subject navigating course: True, 32.75537
+Off course, 40.31706
+Back on course, 40.38417
+Off course, 40.42938
+Back on course, 40.51737
+Loaded course_10_swing, 93.26302
+Config: 
+{	arrowLuminance: 1.01 lx
+	obstacleLuminance: 0.55 lx
+	buttonLuminance: 0.51 lx
+	footLuminance: 0.1 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: True
+}, 93.26694
+Subject navigating course: False, 93.28214
+Subject navigating course: True, 105.8225
+Off course, 122.9126
+Pulse, 124.9235
+Back on course, 128.1554
+Off course, 128.9774
+Back on course, 129.4444
+Off course, 143.3046
+Back on course, 143.4051
+Off course, 147.8366
+Back on course, 148.2467
+Off course, 148.5136
+Back on course, 149.8467
+Off course, 153.0113
+Back on course, 163.051
+Off course, 181.1996
+Back on course, 181.6547
+Off course, 181.8658
+collide*(3.4968, 1.2419, -0.0176)*CollisionTracker_RH*(1.3366, -0.0086, 0.6346) *(0.6436, -1.1002, 1.1227)*(3.4156, 1.3057, -0.0585)*FlagZY*(3.6000, 1.3000, 0.0000), 182.8435
+Finish Line Tagged, 182.8478
+Subject navigating course: False, 182.8523
+Loaded course_10_swing, 188.8934
+Config: 
+{	arrowLuminance: 1.01 lx
+	obstacleLuminance: 0.55 lx
+	buttonLuminance: 0.51 lx
+	footLuminance: 0.1 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: True
+}, 188.8975
+Subject navigating course: False, 188.9116
+Subject navigating course: True, 208.6544
+Off course, 222.7258
+Back on course, 222.937
+pressed_RedButtonBig(Clone), 229.6669
+pressed_RedButtonBig(Clone), 235.487
+Off course, 251.6461
+Back on course, 251.7585
+Off course, 251.9567
+Back on course, 252.0012
+Off course, 270.5053
+Back on course, 270.5401
+Off course, 272.8262
+Back on course, 272.8481
+Off course, 274.903
+Back on course, 274.9912
+Off course, 275.1245
+collide*(3.5107, 1.2266, -0.0160)*CollisionTracker_RH*(1.1058, 0.1378, 0.4146) *(2.1224, -3.4639, 1.9584)*(3.4158, 1.2740, -0.0512)*FlagZY*(3.6000, 1.3000, 0.0000), 275.614
+Finish Line Tagged, 275.6187
+Subject navigating course: False, 275.6225
+Loaded course_9_swing, 278.4215
+Config: 
+{	arrowLuminance: 1.01 lx
+	obstacleLuminance: 0.55 lx
+	buttonLuminance: 0.51 lx
+	footLuminance: 0.1 lx
+	playAreaWidth: 2.1 m
+	playAreaDepth: 3.4 m
+	subjectHeight: 1.3 m
+	hangingObstacleHeight: 1.3 m
+	arrowHeight: 0.4
+	smallObstacleRadius: 0.0195 m
+	medObstacleRadius: 0.039 m
+	bigObstacleRadius: 0.07799999 m
+	lowHeight: 0.325 m
+	medHeight: 0.65 m
+	highHeight: 0.91 m
+	Red arrows: True
+}, 278.4257
+Subject navigating course: False, 278.4396
+Subject navigating course: True, 288.5419
+Off course, 319.3171
+Back on course, 319.9833
+Off course, 320.3052
+Back on course, 326.6246
+Off course, 327.5913
+Back on course, 328.1899
+pressed_RedButtonBig(Clone), 329.9674
+Off course, 330.2451
+Back on course, 330.5452
+Off course, 330.6116
+Back on course, 331.3557
+Off course, 352.4476
+Back on course, 352.4589
+Off course, 352.4694
+Back on course, 352.68
+Off course, 353.2901
+Back on course, 353.812
+Off course, 361.1431
+Back on course, 361.5204
+Tare feet, 371.4839
+collide*(3.5026, 1.1438, 1.1682)*CollisionTracker_RH*(0.9197, 0.9541, 0.3280) *(-1.9719, -1.9207, -0.1637)*(3.4132, 1.1864, 1.1406)*FlagZY*(3.6000, 1.3000, 1.2000), 371.515
+Finish Line Tagged, 371.5201
+Subject navigating course: False, 371.5239
